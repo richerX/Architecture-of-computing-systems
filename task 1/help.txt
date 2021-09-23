@@ -1,0 +1,11 @@
+Студент - Кунин Илья, БПИ203
+
+Variant number = 96
+Number of task = 12
+Number of function = 7
+
+cd 'Рабочий стол'/project
+
+ПРИМЕРЫ КОММАНД (запускать из папки project)
+./task -n 10000           files/output1.txt files/output2.txt
+./task -f files/input.txt files/output1.txt files/output2.txt

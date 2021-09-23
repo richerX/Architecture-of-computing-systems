@@ -1,0 +1,70 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ilya/Рабочий стол/project/animal.cpp
+animal.h
+/home/ilya/Рабочий стол/project/animal.h
+
+/home/ilya/Рабочий стол/project/animal.h
+fish.h
+/home/ilya/Рабочий стол/project/fish.h
+bird.h
+/home/ilya/Рабочий стол/project/bird.h
+beast.h
+/home/ilya/Рабочий стол/project/beast.h
+
+/home/ilya/Рабочий стол/project/beast.cpp
+beast.h
+/home/ilya/Рабочий стол/project/beast.h
+
+/home/ilya/Рабочий стол/project/beast.h
+includes.h
+/home/ilya/Рабочий стол/project/includes.h
+
+/home/ilya/Рабочий стол/project/bird.cpp
+bird.h
+/home/ilya/Рабочий стол/project/bird.h
+
+/home/ilya/Рабочий стол/project/bird.h
+includes.h
+/home/ilya/Рабочий стол/project/includes.h
+
+/home/ilya/Рабочий стол/project/container.cpp
+container.h
+/home/ilya/Рабочий стол/project/container.h
+
+/home/ilya/Рабочий стол/project/container.h
+animal.h
+/home/ilya/Рабочий стол/project/animal.h
+
+/home/ilya/Рабочий стол/project/fish.cpp
+fish.h
+/home/ilya/Рабочий стол/project/fish.h
+
+/home/ilya/Рабочий стол/project/fish.h
+includes.h
+/home/ilya/Рабочий стол/project/includes.h
+
+/home/ilya/Рабочий стол/project/includes.cpp
+includes.h
+/home/ilya/Рабочий стол/project/includes.h
+
+/home/ilya/Рабочий стол/project/includes.h
+cstdlib
+-
+ctime
+-
+cstdio
+-
+cstring
+-
+
+/home/ilya/Рабочий стол/project/main.cpp
+container.h
+/home/ilya/Рабочий стол/project/container.h
+
