@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/task.dir/animal.cpp.o CMakeFiles/task.dir/beast.cpp.o CMakeFiles/task.dir/bird.cpp.o CMakeFiles/task.dir/container.cpp.o CMakeFiles/task.dir/fish.cpp.o CMakeFiles/task.dir/includes.cpp.o CMakeFiles/task.dir/main.cpp.o -o ../bin/task 

@@ -1,0 +1,3 @@
+/home/ilya/Рабочий стол/HW 2/code/build/CMakeFiles/rebuild_cache.dir
+/home/ilya/Рабочий стол/HW 2/code/build/CMakeFiles/task.dir
+/home/ilya/Рабочий стол/HW 2/code/build/CMakeFiles/edit_cache.dir

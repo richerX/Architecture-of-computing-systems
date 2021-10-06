@@ -1,0 +1,14 @@
+Студент - Кунин Илья, БПИ203
+
+Variant number = 96
+Number of task = 12
+Number of function = 7
+
+cd ../
+cd ../ilya/'Рабочий стол'/'HW 2'
+cmake ../
+make
+
+ПРИМЕРЫ КОММАНД (запускать из папки с файлом task)
+./task -n 1000 files/output1.txt files/output2.txt
+./task -f files/input.txt files/output1.txt files/output2.txt
