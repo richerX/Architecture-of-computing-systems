@@ -1,0 +1,9 @@
+Студент - Кунин Илья, БПИ203
+
+Variant number = 96
+Number of task = 12
+Number of function = 7
+
+ПРИМЕРЫ КОММАНД (запускать из папки с файлом main.py)
+python main.py -f files/input files/output
+python main.py -n 1000        files/output
